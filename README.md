@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DuanZiyun
 - 👀 I’m interested in making applets
 - 🌱 I am learning python and javaScript now.
-- 📫 If you can contact me, please email 702382416@qq.com
+- 📫 If you can contact me, please email yuyo1233@163.com
 
 <!---
 DuanZiyun/DuanZiyun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
